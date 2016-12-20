@@ -16,7 +16,7 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>weixin12-20-1</key>
+				<key>bundle-identifier</key>
 				<string>com.wclm.liuliang</string>
 				<key>bundle-version</key>
 				<string>6.3.9</string>
