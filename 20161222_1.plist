@@ -1,4 +1,5 @@
 
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist
 PUBLIC "-//Apple//DTD PLIST 1.0//EN"
@@ -14,7 +15,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>http://wm.3czc.com/o_1b4in0rqes87120a15ei1sd8del9.ipa</string>
+      <string>http://114.55.112.236:88/wmws/2.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -50,3 +51,4 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
   </array>
  </dict>
 </plist>
+
